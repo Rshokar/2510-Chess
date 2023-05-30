@@ -51,7 +51,6 @@ While this project does not provide a complete gaming experience, it serves as a
 4. Type: `javac Chess.java`
 5. Type: `java Chess`
 <br>
-
 #### Running Chess 3D
 1. Open Command Prompt
 2. `cd` into the folder where the code is stored
