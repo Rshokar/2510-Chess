@@ -115,7 +115,6 @@ public class ChessBoard3D extends GameBoard {
         for (int pannel = 0; pannel < getNumBoards(); pannel++) {
             for (int i = 0; i < getHeight(); i++) {
                 for (int j = 0; j < getWidth(); j++) {
-                    System.out.println("Pannel: " + pannel + " Height: " + i + " Width: " + j);
                     pannels[pannel].add(getTile(i, j, pannel));
                 }
             }
