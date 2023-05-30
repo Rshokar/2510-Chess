@@ -7,7 +7,7 @@
 - [Contact Information](#contact-information)
 
 ## Project Description
-This chess project was developed as part of BCIT's Object-Oriented course (2510), aiming to enhance our understanding of object-oriented languages and design patterns. The project primarily focuses on key concepts such as inheritance, polymorphism, and abstraction. However, it's important to note that the games included in this repository, Chess and 3D Chess, are not fully functional games. They lack features such as scoring, win conditions, and a graphical user interface.
+This chess project was developed as part of BCIT's Object-Oriented course (2510), aiming to enhance our understanding of object-oriented languages and design patterns. The project primarily focuses on key concepts such as inheritance, polymorphism, and abstraction. However, it's important to note that the games included in this repository, Chess and 3D Chess, are not fully functional games. They lack features such as scoring, win conditions, and a appealing graphical user interface.
 
 In the regular chess game, we have implemented several base classes that serve as the foundation for other components. The Game class manages the game board and player turns. The game board is represented as a matrix of tiles, each alternating between white and red. Each tile can either be empty or contain a single piece. The Piece class acts as the base class for all chess pieces, providing common functionality such as setting the team and type of the piece. Additionally, pieces can move from one tile to another and project their legal moves on the board.
 
