@@ -54,9 +54,10 @@ While this project does not provide a complete gaming experience, it serves as a
 
 ### Features
 
-#### Basic Analytics
+#### How to play
 - Selet a peice
 - The board should be highlited to show available moves
+- Select highlited move
 <br>
 
 ## Contact Information <a id="contact-information">Contact Information</a>
