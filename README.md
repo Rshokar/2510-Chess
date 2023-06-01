@@ -60,7 +60,7 @@ While this project does not provide a complete gaming experience, it serves as a
 - Select highlited move
 <br>
 
-## Contact Information <a id="contact-information">Contact Information</a>
+## <a id="contact-information">Contact Information</a>
 
 ### Ravinder Shokar
 - ravindershokar@gmail.com
