@@ -62,6 +62,6 @@ While this project does not provide a complete gaming experience, it serves as a
 
 ## Contact Information <a id="contact-information">Contact Information</a>
 
-### Ravinder Shokara
+### Ravinder Shokar
 - ravindershokar@gmail.com
 - https://www.linkedin.com/in/rshokar/
