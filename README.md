@@ -1,4 +1,4 @@
-# Chess/3D Chess - BCIT 2510 Term Two
+# Chess/3D Chess
 
 ## Table of Contents
 - [Project Description](#project-description)
